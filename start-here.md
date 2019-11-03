@@ -25,4 +25,5 @@ If you have any trouble/questions, feel free to contact me through my personal e
 ### Contact
 
 LinkedIn: [Leonardo Saldanha](https://www.linkedin.com/in/leonard0saldanha/)
+
 Gmail: leoosaldanha@gmail.com
